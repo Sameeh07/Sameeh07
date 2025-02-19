@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdul Sameeh K</h1>
-<h3 align="center">AI/ML Engineer.</h3>
+<h3 align="center">AI/ML Engineer | Developer | DevOps.</h3>
 
 - 🔭 I’m currently pursuing **B.E from Visvesvaraya Technological University (VTU)**
 
-- 🌱 I’m currently learning **Neural Network**
-
-- 🤝 I’m looking for new role **Software Engineering**
+- 🤝 I’m looking for new role 
 
 - 📫 How to reach me **abdulsameehk786@gmail.com**
 
