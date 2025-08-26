@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Sameeh K</h1>
-<h3 align="center">AI/ML Engineer | Developer | DevOps.</h3>
+<h3 align="center">AI/ML Engineer | DataScience | DevOps.</h3>
 
-- 🔭 I’m currently pursuing **B.E from Visvesvaraya Technological University (VTU)**
+- 🔭 I completed **B.E from Visvesvaraya Technological University (VTU)**
 
 - 🤝 I’m looking for new role 
 
