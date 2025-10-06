@@ -1,13 +1,22 @@
-<h1 align="center">Hi 👋, I'm Abdul Sameeh K</h1>
-<h3 align="center">AI/ML Engineer | DataScience | DevOps.</h3>
+<div align="center">
+  
+# 👋 Hi there, I'm Abdul Sameeh K
 
-- 🔭 I completed **B.E from Visvesvaraya Technological University (VTU)**
+### AI Engineer | Building Intelligent Solutions
 
-- 🤝 I’m looking for new role 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sameeh.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sameeh.dev)
+[![Location](https://img.shields.io/badge/Location-Mangalore-green?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Mangalore)
 
-- 📫 How to reach me **abdulsameehk786@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sameehk/](https://www.linkedin.com/in/sameehk/)
+---
+I'm an **AI/ML Engineer** passionate about creating intelligent systems and solving complex problems with data-driven solutions. Based in Mangalore, I'm constantly exploring the frontiers of artificial intelligence and machine learning.
+
+- 🔭 Currently working on exciting AI/ML projects
+- 🌱 Always learning and staying updated with the latest in AI
+- 💡 Interested in Deep Learning, NLP, Computer Vision, and MLOps
+- 🌐 Check out my work experience at [LinkedIn](https://linkedin.com/in/sameehk)
+- 📫 Let's connect and build something amazing together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +28,24 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameeh07&show_icons=true&locale=en&layout=compact" alt="sameeh07" /></p>
+
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+## 🎯 This year goals:
+
+- [ ] Contribute to more open-source AI/ML projects
+- [ ] Build and deploy production-grade ML systems
+
+
+<div align="center">
+
+### 🌟 Thanks for visiting! Feel free to explore my repositories and don't forget to ⭐ projects you find interesting!
+
+</div>
